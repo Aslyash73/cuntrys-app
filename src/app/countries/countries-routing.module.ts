@@ -22,7 +22,7 @@ const routes: Routes=[
   component: ByRegionPageComponent,
 },
 {
-  path:'by/:alphaCode3',
+  path:'by/:id',
   component: CountryPageComponent,
 },
 {
